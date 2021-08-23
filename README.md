@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benkatek
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning nodejs and php
 
 
 
